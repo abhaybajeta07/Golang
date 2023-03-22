@@ -1,5 +1,9 @@
 package main
 
+import (
+	"fmt"
+)
+
 func main() {
-	fmt.println("encryption decryption")
+	fmt.Println(encrypt.Nimbus("devsecops"))
 }
